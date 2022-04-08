@@ -1,0 +1,54 @@
+thead{
+    background-color: rgb(43, 40, 40);
+    color: honeydew;
+}
+body{
+    background-color: rgb(224, 230, 229);
+}
+img{
+    /* position: relative; */
+    height: 22vh;
+    width: 10vw;
+    /* display: inline; */
+}
+hr{
+    border-color: black;
+}
+a{
+    text-decoration: none;
+    color: rgb(20, 78, 238);
+}
+
+.div1{
+    width: 13vw;
+    /* background-color: cadetblue; */
+    display: inline-block;
+    
+}
+.div2{
+    width: 40vw;
+    display: inline-block;
+    padding: 0 auto ;
+    display: absolute;
+    /* background-color: crimson; */
+    z-index: 2;
+}
+/* .sec1{
+    display: inline;
+} */
+.sec{
+    text-align: center;
+    /* color: black; */
+}
+.sec a{
+    color: black;
+}
+hr{
+    border: dotted black 3px;
+    border-bottom: none;
+
+}
+h1{
+    /* padding: 0px; */
+    margin: 0px;
+}
