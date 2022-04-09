@@ -7,8 +7,8 @@ body{
 }
 img{
     /* position: relative; */
-    height: 22vh;
-    width: 10vw;
+    height: 15vh;
+    width: 20vw;
     /* display: inline; */
 }
 hr{
@@ -20,13 +20,14 @@ a{
 }
 
 .div1{
-    width: 13vw;
+    width: 6vw;
     /* background-color: cadetblue; */
     display: inline-block;
     
 }
 .div2{
     width: 40vw;
+    margin-left: 70px;
     display: inline-block;
     padding: 0 auto ;
     display: absolute;
